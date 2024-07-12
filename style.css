@@ -203,14 +203,13 @@ nav i{
       }
 
       nav ul {
-         display: none;
+        display: none;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         position: absolute;
-        top: 0px;
+        top: 180px;
         right: 0;
-        background-color: #000000a8;
         width: 50%;
         height: 50%;
     }
